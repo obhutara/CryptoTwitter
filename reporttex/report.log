@@ -1,0 +1,1480 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.12)  16 MAR 2020 14:44
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
+"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ ("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg"))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/todonotes\todonote
+s.sty"
+Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.st
+y"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.
+tex"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils
+.tex"
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count178
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer\
+tikz.sty"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf
+.sty"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfr
+cs.sty"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-common.tex"
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen143
+\pgfutil@tempdimb=\dimen144
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-common-lists.tex"))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-latex.def"
+\pgfutil@abb=\box45
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+frcs.code.tex"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revision
+.tex")
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf
+core.sty"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\pg
+fsys.sty"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsys.code.tex"
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeys.code.tex"
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen147
+\pgf@y=\dimen148
+\pgf@xa=\dimen149
+\pgf@ya=\dimen150
+\pgf@xb=\dimen151
+\pgf@yb=\dimen152
+\pgf@xc=\dimen153
+\pgf@yc=\dimen154
+\pgf@xd=\dimen155
+\pgf@yd=\dimen156
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count179
+\c@pgf@countb=\count180
+\c@pgf@countc=\count181
+\c@pgf@countd=\count182
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count183
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgf.cfg"
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count184
+\pgfsyssoftpath@bigbuffer@items=\count185
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcore.code.tex"
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+calc.code.tex"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+util.code.tex")
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+parser.code.tex"
+\pgfmath@dimen=\dimen157
+\pgfmath@count=\count186
+\pgfmath@box=\box46
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.code.tex"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.basic.code.tex")
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.trigonometric.code.tex")
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.random.code.tex")
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.comparison.code.tex")
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.base.code.tex")
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.round.code.tex")
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.misc.code.tex")
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.integerarithmetics.code.tex")))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+float.code.tex"
+\c@pgfmathroundto@lastzeros=\count187
+))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfint.
+code.tex")
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen158
+\pgf@picmaxx=\dimen159
+\pgf@picminy=\dimen160
+\pgf@picmaxy=\dimen161
+\pgf@pathminx=\dimen162
+\pgf@pathmaxx=\dimen163
+\pgf@pathminy=\dimen164
+\pgf@pathmaxy=\dimen165
+\pgf@xx=\dimen166
+\pgf@xy=\dimen167
+\pgf@yx=\dimen168
+\pgf@yy=\dimen169
+\pgf@zx=\dimen170
+\pgf@zy=\dimen171
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen172
+\pgf@path@lasty=\dimen173
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen174
+\pgf@shorten@start@additional=\dimen175
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box47
+\pgf@hbox=\box48
+\pgf@layerbox@main=\box49
+\pgf@picture@serial@count=\count188
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen176
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen177
+\pgf@pt@y=\dimen178
+\pgf@pt@temp=\dimen179
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen180
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen181
+\pgf@sys@shading@range@num=\count189
+\pgf@shadingcount=\count190
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box50
+))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
+oduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box51
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
+oduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\
+pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen182
+\pgf@nodesepend=\dimen183
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\
+pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgff
+or.sty"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfk
+eys.sty"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeys.code.tex"))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.s
+ty"
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex"))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+ffor.code.tex"
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex")
+\pgffor@iter=\dimen184
+\pgffor@skip=\dimen185
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz\tikz.code.tex"
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pg
+flibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count191
+\pgfplotmarksize=\dimen186
+)
+\tikz@lastx=\dimen187
+\tikz@lasty=\dimen188
+\tikz@lastxsaved=\dimen189
+\tikz@lastysaved=\dimen190
+\tikz@lastmovetox=\dimen191
+\tikz@lastmovetoy=\dimen192
+\tikzleveldistance=\dimen193
+\tikzsiblingdistance=\dimen194
+\tikz@figbox=\box52
+\tikz@figbox@bg=\box53
+\tikz@tempbox=\box54
+\tikz@tempbox@bg=\box55
+\tikztreelevel=\count192
+\tikznumberofchildren=\count193
+\tikznumberofcurrentchild=\count194
+\tikz@fig@count=\count195
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
+odulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count196
+\pgfmatrixcurrentcolumn=\count197
+\pgf@matrix@numberofcolumns=\count198
+)
+\tikz@expandcount=\count199
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibraryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pg
+flibraryfadings.code.tex"
+File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count266
+\calc@Bcount=\count267
+\calc@Adimen=\dimen195
+\calc@Bdimen=\dimen196
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count268
+\calc@Cskip=\skip51
+)
+\c@@todonotes@numberoftodonotes=\count269
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen197
+))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen198
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count270
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count271
+\leftroot@=\count272
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count273
+\DOTSCASE@=\count274
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+\big@size=\dimen199
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count275
+\c@MaxMatrixCols=\count276
+\dotsspace@=\muskip16
+\c@parentequation=\count277
+\dspbrk@lvl=\count278
+\tag@help=\toks34
+\row@=\count279
+\column@=\count280
+\maxfields@=\count281
+\andhelp@=\toks35
+\eqnshift@=\dimen256
+\alignsep@=\dimen257
+\tagshift@=\dimen258
+\tagwidth@=\dimen259
+\totwidth@=\dimen260
+\lineht@=\dimen261
+\@envbody=\toks36
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip\parskip.st
+y"
+Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoption
+s.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.
+sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetk
+eys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
+sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count282
+))
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+sty"
+\lst@mode=\count283
+\lst@gtempboxa=\box58
+\lst@token=\toks38
+\lst@length=\count284
+\lst@currlwidth=\dimen262
+\lst@column=\count285
+\lst@pos=\count286
+\lst@lostspace=\dimen263
+\lst@width=\dimen264
+\lst@newlines=\count287
+\lst@lineno=\count288
+\lst@maxwidth=\dimen265
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count289
+\lst@skipnumbers=\count290
+\lst@framebox=\box59
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count291
+\float@exts=\toks39
+\float@box=\box60
+\@float@everytoks=\toks40
+\@floatcapt=\box61
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
+sty"
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwar
+err.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvd
+efinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfesc
+ape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.st
+y"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltx
+macro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.st
+y"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen266
+\Hy@linkcounter=\count292
+\Hy@pagecounter=\count293
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
+f"
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.
+sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmd
+s.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count294
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count295
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen267
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.st
+y"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigin
+tcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count296
+\Field@Width=\dimen268
+\Fld@charsize=\dimen269
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegsh
+i.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count297
+\c@Item=\count298
+\c@Hfootnote=\count299
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
+ef"
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atveryen
+d.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+\Fld@listcount=\count300
+\c@bookmark@seq@number=\count301
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\rer
+unfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\un
+iquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip55
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.st
+y"
+\wrapoverhang=\dimen270
+\WF@size=\dimen271
+\c@WF@wrappedlines=\count302
+\WF@box=\box62
+\WF@everypar=\toks41
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.st
+y"
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty"
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen272
+\captionmargin@=\dimen273
+\captionwidth=\dimen274
+\caption@tempdima=\dimen275
+\caption@indent=\dimen276
+\caption@parindent=\dimen277
+\caption@hangindent=\dimen278
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count303
+\c@continuedfloat=\count304
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaption
+.sty"
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count305
+\c@subtable=\count306
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.
+sty"
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen279
+\ar@mcellbox=\box63
+\extrarowheight=\dimen280
+\NC@list=\toks42
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box64
+)
+\everycr=\toks43
+\minrowclearance=\skip58
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count307
+\l__pdf_internal_box=\box65
+) (report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.90552pt, 483.69684pt, 56.90552pt)
+* v-part:(T,H,B)=(59.18173pt, 697.09251pt, 88.7726pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69684pt
+* \textheight=697.09251pt
+* \oddsidemargin=-15.36447pt
+* \evensidemargin=-15.36447pt
+* \topmargin=-50.08826pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen281
+\scratchbox=\box66
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen282
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks45
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+) ABD: EveryShipout initializing macros
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
+most likely cause issues with the appearance of inserted todonotes. The issue c
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+loading the todonotes package. on input line 21.
+
+\c@lstlisting=\count314
+\AtBeginShipoutBox=\box67
+Package hyperref Info: Link coloring OFF on input line 21.
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
+ty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.
+sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Users\Omkar\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\g
+ettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count315
+)
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
+ (report.out) (report.out)
+\@outlinefile=\write4
+\openout4 = `report.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ [1
+
+{C:/Users/Omkar/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.71 \large \dfrac{x}{\sqrt{x^2 + \alpha}}
+                                          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+\@genfrac ...egingroup #4\endgroup #2#3\relax #5}}
+                                                  
+l.71 \large \dfrac{x}{\sqrt{x^2 + \alpha}}
+                                          
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.72 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[3]
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 106.
+
+
+LaTeX Warning: Command \textpm invalid in math mode on input line 106.
+
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.106     Pw(y = ±1|x) = 1/1 + e^−
+                                     {ywTx}
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+! Package inputenc Error: Unicode character − (U+2212)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106     Pw(y = ±1|x) = 1/1 + e^−
+                                     {ywTx}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! You can't use `\eqno' in math mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.108 \end{equation}
+                    
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.108 \end{equation}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no � in font cmr12!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.111 ...Given two-class training data {(xi, yi)}^
+                                                  {l}_{i=1}, xi \in \mathbb{...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.111 ...data {(xi, yi)}^{l}_{i=1}, xi \in \mathbb
+                                                  {R}^{n}, yi \in {1, −1}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package inputenc Error: Unicode character − (U+2212)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 ...1}, xi \in \mathbb{R}^{n}, yi \in {1, −
+                                                  1}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.112 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode character 𝑐 (U+1D450)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 ...ifying documents of a specific class 𝑐
+                                                  .
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character 𝑐 (U+1D450)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 ... for which the system predicts class 𝑐
+                                                  .
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character 𝑐 (U+1D450)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.145 						When the system predicts class 𝑐
+                                               , how often is it correct?}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[4]
+
+! Package inputenc Error: Unicode character 𝑐 (U+1D450)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.147 all documents with gold-standard class 𝑐
+                                                 .
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character 𝑐 (U+1D450)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.152 When the document has class 𝑐
+                                      , how often does the system predict it?}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character 𝑘 (U+1D458)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167 into 𝑘
+                clusters, minimising within-cluster variance in distance.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+! Extra }, or forgotten \endgroup.
+l.190     }
+           
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.196 "#
+        bitcoin" and "#crypto" are the filters used to make 6 datasets by th...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.196 "#bitcoin" and "#
+                       crypto" are the filters used to make 6 datasets by th...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+[5]
+<res/training_test.png, id=223, 408.52625pt x 279.0425pt>
+File: res/training_test.png Graphic file (type png)
+<use res/training_test.png>
+Package pdftex.def Info: res/training_test.png  used on input line 229.
+(pdftex.def)             Requested size: 232.17241pt x 158.58751pt.
+<res/undersampled_training.png, id=225, 408.52625pt x 279.0425pt>
+File: res/undersampled_training.png Graphic file (type png)
+<use res/undersampled_training.png>
+Package pdftex.def Info: res/undersampled_training.png  used on input line 234.
+
+(pdftex.def)             Requested size: 232.17241pt x 158.58751pt.
+
+! Undefined control sequence.
+l.242 ...ng and investing.  \cite{tweepy} cite{\bs
+                                                  4}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6 <./res/training_test.png> <./res/undersampled_training.png>]
+! You can't use `macro parameter character #' in horizontal mode.
+l.246 Using the API a search query "#
+                                     bitcoin" and "#crypto" is sent with the...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.246 ... the API a search query "#bitcoin" and "#
+                                                  crypto" is sent with the c...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   b
+l.248 ...m of tweets tagged by \textit{'#bitcoin'}
+                                                   or \textit{'#crypto'}
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<argument> '##
+              bitcoin'
+l.248 ...m of tweets tagged by \textit{'#bitcoin'}
+                                                   or \textit{'#crypto'}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   c
+l.248 ...\textit{'#bitcoin'} or \textit{'#crypto'}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<argument> '##
+              crypto'
+l.248 ...\textit{'#bitcoin'} or \textit{'#crypto'}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+<res/currenttweets1.png, id=239, 174.40157pt x 100.87688pt>
+File: res/currenttweets1.png Graphic file (type png)
+<use res/currenttweets1.png>
+Package pdftex.def Info: res/currenttweets1.png  used on input line 252.
+(pdftex.def)             Requested size: 386.95894pt x 223.85693pt.
+[7 <./res/currenttweets1.png>]
+! Missing } inserted.
+<inserted text> 
+                }
+l.275 \end{itemize}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+l.285 }
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8]
+! Missing } inserted.
+<inserted text> 
+                }
+l.341 \end{itemize}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[9]
+<res/con1.png, id=273, 380.42125pt x 262.9825pt>
+File: res/con1.png Graphic file (type png)
+<use res/con1.png>
+Package pdftex.def Info: res/con1.png  used on input line 391.
+(pdftex.def)             Requested size: 232.17241pt x 160.50334pt.
+ [10]
+<res/wordcloud_anger.png, id=281, 100.375pt x 57.96657pt>
+File: res/wordcloud_anger.png Graphic file (type png)
+<use res/wordcloud_anger.png>
+Package pdftex.def Info: res/wordcloud_anger.png  used on input line 406.
+(pdftex.def)             Requested size: 145.11052pt x 83.81407pt.
+<res/wordcloud_fear.png, id=282, 100.62593pt x 57.46469pt>
+File: res/wordcloud_fear.png Graphic file (type png)
+<use res/wordcloud_fear.png>
+Package pdftex.def Info: res/wordcloud_fear.png  used on input line 411.
+(pdftex.def)             Requested size: 145.11052pt x 82.86832pt.
+<res/wordcloud_greed.png, id=283, 100.87688pt x 57.46469pt>
+File: res/wordcloud_greed.png Graphic file (type png)
+<use res/wordcloud_greed.png>
+Package pdftex.def Info: res/wordcloud_greed.png  used on input line 416.
+(pdftex.def)             Requested size: 145.11052pt x 82.66313pt.
+<res/wordcloud_hateful.png, id=284, 101.1278pt x 57.71562pt>
+File: res/wordcloud_hateful.png Graphic file (type png)
+<use res/wordcloud_hateful.png>
+Package pdftex.def Info: res/wordcloud_hateful.png  used on input line 421.
+(pdftex.def)             Requested size: 145.11052pt x 82.81891pt.
+<res/wordcloud_joy.png, id=285, 99.6222pt x 57.71562pt>
+File: res/wordcloud_joy.png Graphic file (type png)
+<use res/wordcloud_joy.png>
+Package pdftex.def Info: res/wordcloud_joy.png  used on input line 426.
+(pdftex.def)             Requested size: 145.11052pt x 84.07915pt.
+<res/wordcloud_sadness.png, id=286, 99.37125pt x 56.21pt>
+File: res/wordcloud_sadness.png Graphic file (type png)
+<use res/wordcloud_sadness.png>
+Package pdftex.def Info: res/wordcloud_sadness.png  used on input line 431.
+(pdftex.def)             Requested size: 145.11052pt x 82.09163pt.
+<res/vaderinitial.png, id=288, 274.02374pt x 131.24031pt>
+File: res/vaderinitial.png Graphic file (type png)
+<use res/vaderinitial.png>
+Package pdftex.def Info: res/vaderinitial.png  used on input line 444.
+(pdftex.def)             Requested size: 478.86252pt x 229.36359pt.
+ [11 <./res/con1.png> <./res/wordcloud_anger.png> <./res/wordcloud_fear.png> <.
+/res/wordcloud_greed.png> <./res/wordcloud_hateful.png> <./res/wordcloud_joy.pn
+g> <./res/wordcloud_sadness.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: res/con1.png Graphic file (type png)
+<use res/con1.png>
+Package pdftex.def Info: res/con1.png  used on input line 502.
+(pdftex.def)             Requested size: 232.17241pt x 160.50334pt.
+[12 <./res/vaderinitial.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<res/con_lr.png, id=316, 380.42125pt x 262.9825pt>
+File: res/con_lr.png Graphic file (type png)
+<use res/con_lr.png>
+Package pdftex.def Info: res/con_lr.png  used on input line 542.
+(pdftex.def)             Requested size: 232.17241pt x 160.50334pt.
+[13]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<res/con_sgd.png, id=326, 380.42125pt x 262.9825pt>
+File: res/con_sgd.png Graphic file (type png)
+<use res/con_sgd.png>
+Package pdftex.def Info: res/con_sgd.png  used on input line 581.
+(pdftex.def)             Requested size: 232.17241pt x 160.50334pt.
+[14 <./res/con_lr.png>]
+<res/currenttweets_res.png, id=335, 219.82124pt x 101.88063pt>
+File: res/currenttweets_res.png Graphic file (type png)
+<use res/currenttweets_res.png>
+Package pdftex.def Info: res/currenttweets_res.png  used on input line 600.
+(pdftex.def)             Requested size: 478.86252pt x 221.9461pt.
+ [15 <./res/con_sgd.png>]
+<res/vaderfinal.png, id=341, 274.02374pt x 130.98938pt>
+File: res/vaderfinal.png Graphic file (type png)
+<use res/vaderfinal.png>
+Package pdftex.def Info: res/vaderfinal.png  used on input line 610.
+(pdftex.def)             Requested size: 478.86252pt x 228.92502pt.
+<res/vaderfinalmarch15.png, id=342, 273.27094pt x 129.73468pt>
+File: res/vaderfinalmarch15.png Graphic file (type png)
+<use res/vaderfinalmarch15.png>
+Package pdftex.def Info: res/vaderfinalmarch15.png  used on input line 620.
+(pdftex.def)             Requested size: 478.86252pt x 227.35384pt.
+ [16 <./res/currenttweets_res.png> <./res/vaderfinal.png>]
+! Extra alignment tab has been changed to \cr.
+<template> ... width\arrayrulewidth }\endtemplate 
+                                                  
+l.636 ...		 &  0 &   &   -   &	-0.70		& -0.27    &
+                                                   median \\ \hline
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+<res/elbow.png, id=353, 431.4519pt x 328.8285pt>
+File: res/elbow.png Graphic file (type png)
+<use res/elbow.png>
+Package pdftex.def Info: res/elbow.png  used on input line 668.
+(pdftex.def)             Requested size: 435.32419pt x 331.78802pt.
+[17 <./res/vaderfinalmarch15.png>]
+<res/k2.png, id=362, 400.3758pt x 328.8285pt>
+File: res/k2.png Graphic file (type png)
+<use res/k2.png>
+Package pdftex.def Info: res/k2.png  used on input line 682.
+(pdftex.def)             Requested size: 145.11052pt x 119.18097pt.
+<res/k2.1.png, id=363, 47.67813pt x 81.30376pt>
+File: res/k2.1.png Graphic file (type png)
+<use res/k2.1.png>
+Package pdftex.def Info: res/k2.1.png  used on input line 687.
+(pdftex.def)             Requested size: 145.11052pt x 247.48228pt.
+ [18 <./res/elbow.png>]
+<res/k8.png, id=370, 400.3758pt x 328.8285pt>
+File: res/k8.png Graphic file (type png)
+<use res/k8.png>
+Package pdftex.def Info: res/k8.png  used on input line 698.
+(pdftex.def)             Requested size: 290.22105pt x 238.37198pt.
+<res/k8.1.png, id=371, 42.65938pt x 146.04562pt>
+File: res/k8.1.png Graphic file (type png)
+<use res/k8.1.png>
+Package pdftex.def Info: res/k8.1.png  used on input line 706.
+(pdftex.def)             Requested size: 145.11052pt x 496.8248pt.
+<res/k8.2.png, id=372, 46.1725pt x 146.79843pt>
+File: res/k8.2.png Graphic file (type png)
+<use res/k8.2.png>
+Package pdftex.def Info: res/k8.2.png  used on input line 711.
+(pdftex.def)             Requested size: 145.11052pt x 461.36021pt.
+ [19 <./res/k2.png> <./res/k2.1.png> <./res/k8.png>]
+Overfull \vbox (83.98007pt too high) has occurred while \output is active []
+
+
+[20 <./res/k8.1.png> <./res/k8.2.png>]
+
+LaTeX Warning: Reference `fig:con_lr' on page 21 undefined on input line 736.
+
+[21] [22] (report.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+[]\OT1/cmr/m/n/12 P. Pandey, ``Sim-pli-fy-ing Sen-ti-ment Anal-y-sis us-ing VAD
+ER in Python
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+\OT1/cmr/m/n/12 (on So-cial Me-dia Text).'' []$\OT1/cmtt/m/n/12 https : / / med
+ium . com / analytics-[]vidhya /
+ []
+
+
+Overfull \hbox (29.86978pt too wide) in paragraph at lines 15--19
+\OT1/cmtt/m/n/12 simplifying-[]social-[]media-[]sentiment-[]analysis-[]using-[]
+vader-[]in-[]python-[]f9e6ec6fc52f$[]\OT1/cmr/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+[]\OT1/cmr/m/n/12 Hutto, ``Twit-ter Emo-tion cryp-tocur-rency.'' []$\OT1/cmtt/m
+/n/12 https : / / github . com / cjhutto /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
+[]\OT1/cmr/m/n/12 H. Zolkepli, ``Twit-ter Emo-tion cryp-tocur-rency.'' []$\OT1/
+cmtt/m/n/12 https : / / www . kaggle . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
+[]\OT1/cmr/m/n/12 S. Ri-choz, ``Twit-ter Sen-ti-ment And Cryp-tocur-ren-cies.''
+ []$\OT1/cmtt/m/n/12 https : / / github .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
+\OT1/cmtt/m/n/12 com / Drabble / TwitterSentimentAndCryptocurrencies / blob / m
+aster / 02 _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
+[]\OT1/cmr/m/n/12 J. Thesken, ``Build-ing an Alt-coin Mar-ket Sen-ti-ment Mon-i
+-tor.'' []$\OT1/cmtt/m/n/12 https : / /
+ []
+
+
+Overfull \hbox (40.71979pt too wide) in paragraph at lines 83--87
+\OT1/cmtt/m/n/12 towardsdatascience . com / building-[]an-[]altcoin-[]market-[]
+sentiment-[]monitor-[]99226a6f03f6$[]\OT1/cmr/m/n/12 ,
+ []
+
+[23]) [24]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 765.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 765.
+ (report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 765.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 765.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: CFD48B5D94512222FEB78C9649AE297D;1952.
+
+
+LaTeX Warning: There were undefined references.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 71 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 20514 strings out of 480900
+ 385598 string characters out of 2898321
+ 641349 words of memory out of 3000000
+ 35875 multiletter control sequences out of 15000+200000
+ 540125 words of font info for 51 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,10n,96p,981b,652s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Omkar\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm1200.pk><C:/Users/Omkar/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Omkar/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Omkar/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Omka
+r/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+C:/Users/Omkar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi7.pfb><C:/Users/Omkar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb><C:/Users/Omkar/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Omkar/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Omkar/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Omkar/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users
+/Omkar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Users/Omkar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmti12.pfb><C:/Users/Omkar/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmtt12.pfb>
+Output written on report.pdf (24 pages, 998782 bytes).
+PDF statistics:
+ 506 PDF objects out of 1000 (max. 8388607)
+ 106 named destinations out of 1000 (max. 500000)
+ 459 words of extra memory for PDF output out of 10000 (max. 10000000)
+

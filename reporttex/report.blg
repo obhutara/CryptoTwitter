@@ -1,0 +1,18 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: report.aux
+The style file: ieeetr.bst
+Database file #1: res/SentimentalCrypto.bib
+Unbalanced braces---line 133 of file res/SentimentalCrypto.bib
+ :   howpublished = "http://www.diva-portal.org/smash/get/diva2:1110776/FULLTEXT01.pdf
+ :                                                                                    }",
+I'm skipping whatever remains of this entry
+Repeated entry---line 247 of file res/SentimentalCrypto.bib
+ : @inproceedings{conf/kdd/ZadroznyE02
+ :                                    ,
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "conf/kdd/ZadroznyE02"
+refers to entry "conf/kdd/2002", which doesn't exist
+Warning--I didn't find a database entry for "conf/kdd/2002"
+Warning--empty journal in TextMininglecture
+Warning--can't use both volume and number fields in rish2001empirical
+Warning--empty booktitle in inproceedings
+(There were 3 error messages)

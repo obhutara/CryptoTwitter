@@ -1,0 +1,91 @@
+\begin{thebibliography}{10}
+
+\bibitem{nakamotobitcoin}
+S.~Nakamoto, ``{Bitcoin: A peer-to-peer electronic cash system}.''
+  \url{http://www.bitcoin.org/bitcoin.pdf}, 2009.
+\newblock [Online; accessed 2020-03-13].
+
+\bibitem{gilbert2014vader}
+C.~H.~E. Gilbert, ``Vader: A parsimonious rule-based model for sentiment
+  analysis of social media text,'' in {\em Eighth International Conference on
+  Weblogs and Social Media (ICWSM-14). Available at (20/04/16) http://comp.
+  social. gatech. edu/papers/icwsm14. vader. hutto. pdf}, 2014.
+
+\bibitem{pandey_vader_tutorial}
+P.~Pandey, ``{Simplifying Sentiment Analysis using VADER in Python (on Social
+  Media Text)}.''
+  \url{https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f}.
+\newblock [Online; accessed 2020-02-18].
+
+\bibitem{hutto_vader}
+Hutto, ``{Twitter Emotion cryptocurrency}.''
+  \url{https://github.com/cjhutto/vaderSentimentb}, 2019.
+\newblock [Online; accessed 2020-03-02].
+
+\bibitem{TextMininglecture}
+M.~Kuhlmann, ``Lectures: 732a92 text mining,'' 2020.
+
+\bibitem{rish2001empirical}
+I.~Rish, ``An empirical study of the naive bayes classifier,'' in {\em IJCAI
+  2001 workshop on empirical methods in artificial intelligence}, vol.~3,
+  pp.~41--46, IBM, 2001.
+
+\bibitem{journals/ml/YuHL11}
+H.-F. Yu, F.-L. Huang, and C.-J. Lin, ``Dual coordinate descent methods for
+  logistic regression and maximum entropy models.,'' {\em Mach. Learn.},
+  vol.~85, no.~1-2, pp.~41--75, 2011.
+
+\bibitem{conf/kdd/ZadroznyE02}
+B.~Zadrozny and C.~Elkan, ``Transforming classifier scores into accurate
+  multiclass probability estimates.,'' in {\em KDD}, pp.~694--699, ACM, 2002.
+
+\bibitem{journals/jmlr/ZhangDJ02}
+T.~Zhang, F.~Damerau, and D.~Johnson, ``Text chunking based on a generalization
+  of winnow.,'' {\em J. Mach. Learn. Res.}, vol.~2, pp.~615--637, 2002.
+
+\bibitem{twitterdata_Zolkepli}
+H.~Zolkepli, ``{Twitter Emotion cryptocurrency}.''
+  \url{https://www.kaggle.com/huseinzol05/twitter-emotion-cryptocurrency/metadata},
+  2019.
+\newblock [Online; accessed 2020-03-02].
+
+\bibitem{tweepy}
+J.~Roesslein, ``{Tweepy Documentation}.''
+  \url{http://docs.tweepy.org/en/latest/}.
+\newblock [Online; accessed 2020-03-02].
+
+\bibitem{github}
+O.~Bhutra, ``{Repository for the project SentimentalCrypto}.''
+  \url{https://github.com/obhutara/SentimentalCrypto}, 2020.
+\newblock [Online; accessed 2020-03-13].
+
+\bibitem{mydataomkar}
+O.~Bhutra, ``{Twitter Emotion cryptocurrency}.''
+  \url{https://www.github.com/obhutara/SentimentalCrypto/Data}, 2020.
+\newblock [Online; accessed 2020-03-02].
+
+\bibitem{nltk}
+N.~L. Toolkit, ``{Natural Language Toolkit}.'' \url{http://www.nltk.org/},
+  2017.
+\newblock [Online; accessed 2020-03-01].
+
+\bibitem{inproceedings}
+F.~Sun, A.~Belatreche, S.~Coleman, T.~Mcginnity, and Y.~Li, ``Pre-processing
+  online financial text for sentiment classification: A natural language
+  processing approach,'' 03 2014.
+
+\bibitem{rochoz_cryptosentiment}
+S.~Richoz, ``{Twitter Sentiment And Cryptocurrencies}.''
+  \url{https://github.com/Drabble/TwitterSentimentAndCryptocurrencies/blob/master/02_CleanedTweetsIntoMultipleFiles.ipynb}.
+\newblock [Online; accessed 2019-12-25].
+
+\bibitem{Thesken_altmonitor}
+J.~Thesken, ``{Building an Altcoin Market Sentiment Monitor}.''
+  \url{https://towardsdatascience.com/building-an-altcoin-market-sentiment-monitor-99226a6f03f6},
+  2018.
+\newblock [Online; accessed 2019-12-25].
+
+\bibitem{kthbtcsentiment}
+J.~L. Evita~Stenquist, ``{Building an Altcoin Market Sentiment Monitor}.''
+
+\end{thebibliography}
